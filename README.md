@@ -1,6 +1,18 @@
-# Astropy Learn
+# A central entry point for all HEP Training content
 
-This repository hosts the homepage of the Astropy Learn project, https://learn.astropy.org and serves the content from the [astropy-tutorials](https://github.com/astropy/astropy-tutorials) repository. The site itself is built with [Gatsby](https://www.gatsbyjs.com/) and the [Algolia](https://www.algolia.com) search service. Records for the Algolia database are curated and formatted by the [learn-astropy-librarian](https://github.com/astropy/learn-astropy-librarian) app.
+## The idea
+
+At HSF Training, we have created a [curriculum/training center](hepsoftwarefoundation.org/training/curriculum.html), that links to a series of training modules, most of which we develop ourselves. However, there are clearly more resources out there! But the page is clearly already getting crowded, requiring us to focus on one particular _style_ of training and a very limited scope.
+
+Could we do better though? Probably! If we create a more "dynamic" page with various menus for filtering training resources, we could create a _central entry point_ for every student who wishes to boost their software skills. Students could filter by experiemnt, by technology, by level, or by training paradigm. Different selections of modules could be combined into a whole _series_ of individual curricula that can be pointed out by advisers.
+
+For more information, see the [proposal](https://docs.google.com/document/d/e/2PACX-1vQDpRvrAjRaJFMvjZQ84l_piLimfzsYIwk4NadGNVmd8apgJeUDsXMKKOkwWVleWVTqhTCQM5jKHOb_/pub).
+
+## A fork from learn.stropy.org
+
+This repository is a clone of the repository that hosts the homepage of the Astropy Learn project, https://learn.astropy.org and serves the content from the [astropy-tutorials](https://github.com/astropy/astropy-tutorials) repository. The site itself is built with [Gatsby](https://www.gatsbyjs.com/) and the [Algolia](https://www.algolia.com) search service. Records for the Algolia database are curated and formatted by the [learn-astropy-librarian](https://github.com/astropy/learn-astropy-librarian) app.
+
+Show them your support by leaving a star or back-propagating any improvements/fixes that also apply to them.
 
 ## Developer guide
 
