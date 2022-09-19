@@ -8,7 +8,7 @@ Could we do better though? Probably! If we create a more "dynamic" page with var
 
 For more information, see the [proposal](https://docs.google.com/document/d/e/2PACX-1vQDpRvrAjRaJFMvjZQ84l_piLimfzsYIwk4NadGNVmd8apgJeUDsXMKKOkwWVleWVTqhTCQM5jKHOb_/pub).
 
-## A fork from learn.stropy.org
+## A fork from learn.astropy.org
 
 This repository is a clone of the repository that hosts the homepage of the Astropy Learn project, https://learn.astropy.org and serves the content from the [astropy-tutorials](https://github.com/astropy/astropy-tutorials) repository. The site itself is built with [Gatsby](https://www.gatsbyjs.com/) and the [Algolia](https://www.algolia.com) search service. Records for the Algolia database are curated and formatted by the [learn-astropy-librarian](https://github.com/astropy/learn-astropy-librarian) app.
 
