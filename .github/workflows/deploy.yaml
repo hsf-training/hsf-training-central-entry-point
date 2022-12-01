@@ -62,7 +62,7 @@ jobs:
           python -m pip install -r deployment/requirements.txt
 
       - name: Download gatsby artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: gatsby-build
           path: ./public
